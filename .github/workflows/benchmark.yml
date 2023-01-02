@@ -1,7 +1,5 @@
 name: Benchmark
 on:
-    schedule:
-        -   cron: '15 6,12,17 * * *'
 
     # FIXME: remove the path trigger after merge
     push:
